@@ -1,0 +1,50 @@
+/*Elden Ring*/
+
+body {
+    margin: 0;
+}
+
+/*Nav*/
+
+.title_eldenring {
+    width: 250px;
+    height: 50px;
+}
+
+.nav_eldenring {
+    background-color: black;
+
+    display: flex;
+    justify-content: center;
+
+    font-family: ITCAvantGardeStd-Md, sans-serif;
+    font-size: 25px;
+
+    padding: 15px;
+
+    gap: 20px;
+}
+
+.nav_eldenring a {
+    color: white;
+
+    text-decoration: none;
+}
+
+.nav_logs {
+    padding-top: 10px;
+}
+
+.nav_logs:hover {
+    color: #c19d53;
+}
+
+/*Header*/
+
+/*Main*/
+
+/*Aside*/
+
+/*Footer*/
+
+/*Media Queries*/
